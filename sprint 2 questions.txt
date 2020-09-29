@@ -1,0 +1,21 @@
+1. How would you describe acessibility on the web to someone new to programming?
+
+ 	When speaking about accessibility, you have to factor in every person and device imaginable. For people with sight problems, you 
+	have to make sure to add descriptions to the page if there are picture or items that do not have letter to be read out. As far as
+	devices go, you want to make your webpages compatible with all device. Each device may have different screen size and pixel ratio. 
+	Because of that, your webpage has to adjust to whatever size the window ends up being on any given device.
+
+2. Talk about 3 different things you can do to ensure your website is accessible.
+
+	Adding descriptions to items that have no words is a big help to blind people. Adding code to change the resolution to a page
+	when a window in smaller or bigger than the original size. And lastly, the syntax used to built your HTML is vital. Things like
+	h1, title, main, footer are all indicators of importance to the user, and also to the search engines.
+
+3. How would you explain the concept of a variable to someone new to programming?
+	A variable is a container of information/data. You can call upon that variable anytime you want in your code. 
+
+4. What is the purpose of using functions in code?
+
+	functions are important because they can do work for you in seconds that would take your hours, days, months, etc. There kind of 
+	like formulas in algebra. When working with huge amounts of data, the functions will search and return you things that you may 
+	need. 
